@@ -1,0 +1,18 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM],[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Therapeutic BSO for breast cancer treatment.  Metastatic breast cancer.
+MACROSCOPIC:
+A.  Specimen labelled "Right tube and ovary" consists of a fallopian tube measuring 45mm in length x 7mm in maximum diameter.  There is an attached ovary measuring 30 x 15 x 15mm.  The ovary has an unremarkable cut surface.
+Blocks:  1 - fallopian tube; 2 to 5 - representative ovary (80% of the ovary AE).
+B.  Specimen labelled "Left tube and ovary" consists of a fallopian tube measuring 45mm in length x 7mm in maximum dimension.  There is an attached ovary measuring 35 x 20 x 15mm.  The ovary has an unremarkable cut surface.
+Blocks:  1 tube; 2 to 5 - representative ovary (80% of the ovary AE).
+([DOCTOR]/rt [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+A & B.  Sections of ovary and fallopian tube show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A & B.  Right and left fallopian tubes and ovaries:  No significant abnormality.

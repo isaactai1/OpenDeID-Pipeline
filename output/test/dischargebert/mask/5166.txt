@@ -1,0 +1,18 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM],[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Ovarian cyst, elevated Ca 125.  Previous hysterectomy + RSO.
+MACROSCOPIC:
+A.  Specimen labelled "Left tubeand ovary", consists of an open, pale grey, cystic piece of tissue measuring 45 x 35 x 25mm.  The cyst is unilocular and has a smooth inner lining; there are no excrescences.  A fallopian tube is not identified macroscopically.  AE 8 blocks.
+B.  Specimen labelled "Omentum", consists of fibroadipose tissuemeasuring 40 x 40 x 20mm in aggregate.  No lymph nodes or nodules are identified macroscopically.  AE 3 blocks.  ([DOCTOR]/rt [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+A.  Sections of the ovary show a serous cystadenoma.  No definite fallopian tube is identified.  There is no evidence of malignancy.
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A & B.  Left ovary and omentum:
+- Benign serous cystadenoma.
+- Omentum negative.

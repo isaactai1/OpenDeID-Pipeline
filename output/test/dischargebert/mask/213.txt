@@ -1,0 +1,48 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  M
+Collected: [DATE] at 14:14
+Location:  [DEPARTMENT]-[HOSPITAL]
+DR [DOCTOR]
+Distribution:  DR [DOCTOR],  FILE-COPY
+***SUPPLEMENTARY REPORT ([DATE]): PATHOLOGY REVIEW
+
+***SUPPLEMENTARY REPORT ([DATE]): PATHOLOGY REVIEW (ADDENDUM)
+
+
+CLINICAL:
+Left submandibular lymph node enlarged.  ?lymphoma.
+MACROSCOPIC:
+Specimen labelled "Left submandibular lymph node", received fresh and consists of a 30 x 25 x 20mm lymph node with a tan fleshy cut surface.  The specimen was sampled for flow cytometry prior to formalin fixation.  
+Blocks: 1 to 4 - representative section 80% of the specimen is blocked.
+([DOCTOR]/vo [DATE]) 
+MICROSCOPIC:  (Reported by Dr [DOCTOR])
+Sections of the left submandibular lymph node show patchy thickening of the lymph node capsule associated with extensive hyperplasia of lymphoid follicles and expansion of germinal centres. Focally, a small amount of peri-nodal soft tissue showing infiltration by small lymphocytes is present. The expanded follicles show marked variation in size and shape, and show a predominantly preserved mantle and very prominent tingible body macrophages. Although most of the enlarged follicles are back to back with minimally expanded interfollicular areas, focally, in particular within block 3, the enlarged follicles appear to coalesce with disruption of normal follicular architecture. No convincing cytologic atypia or Reed-Sternberg cells are seen. No viral inclusions or salivary gland parenchyma is identified.
+Representative slides seen with Dr [DOCTOR].
+IMMUNOHISTOCHEMISTRY RESULTS (performed on Block [IDNUM]):
+CD3, CD5 and CD43: show follicular and interfollicular T - lymphocytes.
+CD20: highlights follicular and mantle zone B cells.
+BCL-2 negative in the germinal centres.
+CD10: highlights scattered follicular centre cells, also patchy staining within disrupted ?reactive follicles.
+CD21: Highlights enlarged, irregular follicles 
+Cyclin D1: Negative.
+Ki-67: Variable staining.
+FLOW CYTOMETRY RESULTS ([IDNUM]):
+Mixed T and B cells.
+No abnormal population identified. 
+COMMENT:
+The left submandibular lymph node shows widespread follicular hyperplasia and expansion of germinal centres with prominent tingible body macrophages. Flow cytometry showsa reactive mixed population of T and B lymphocytes. The overall morphology and pattern of immunohistochemical pattern of staining favours a reactive lymphoid (follicular) hyperplasia. However, the presence of extranodal lymphocytic inflammation, as well as, irregular expansion of some of the enlarged hyperplastic follicles is considered atypical. The case will be sent to Dr [DOCTOR] (ICPMR) for her expert opinion and a supplementary report will be issued. 
+
+DIAGNOSIS:
+Left submandibular lymph node: 
+Favour reactive follicular hyperplasia
+External pathology review (Dr [DOCTOR]) pending (see comment). 
+

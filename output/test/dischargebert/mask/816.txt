@@ -1,0 +1,39 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  M
+Collected: [DATE] at 09:49
+Location:  [DEPARTMENT]-[HOSPITAL]
+DR [DOCTOR]
+Distribution:   FILE-COPY, DR [DOCTOR],   NSW-CANCER-REGISTRY
+CLINICAL:
+Right groin lymph node biopsy ?relapsed T cell NHL (treatment in Vietnam).  
+MACROSCOPIC:
+Patient details checked by [DOCTOR]
+Specimen labelled "Right groin lymph node biopsy" received fresh, consists of a lymph node 60 x 45 x 35mm with a fine capsule.  The specimen is serially sectioned.  The cut surface is tan and fleshy with areas of necrosis and haemorrhage.  A small piece of tissue (5mm in diameter) taken for flow cytometry.  Tissue sent for microbiology.  
+Blocks:  1 to 6 - representative sections; 7 - tissue selected for tissue bank.  
+([DOCTOR]/mm [DATE]) 
+MICROSCOPIC:  (Reported by Dr [DOCTOR])
+Sections show a markedly enlarged lymph node.  The normal architecture is effaced and there is also extension of lymphoid tissue into surrounding fibrofat.  Around half the node has a follicular architecture.  The follicles are abnormal, being relatively uniform in size and closely packed.  They consistof mixed centroblasts and centrocytes and there is an adjusted centroblast count of greater than 15 per high power field in the follicles.  This component has features of a follicular lymphoma, grade 3A.  The remainder of the node has a diffuse architecture.  This comprises sheets of mainly large lymphoid cells with irregular nuclei and generally scanty eosinophilic cytoplasm.Some cells have eosinophilic cytoplasmic globules, consistent with immunoglobulin (Russel bodies).  This component has features of a diffuse large B cell lymphoma.  Focally in the node there is a circumscribed necrotic area with some surrounding histocytes and fibrous tissue.  No Mycobacteria or fungi are identified with Truant or Silver stains.  
+Immunostains:
+CD20, Pax5, CD79a, CD10 - all positive infollicular and diffuse areas.
+CD21, CD23 - highlight follicular architecture. 
+Bcl-2 - follicles stain positive.  
+CD3 - highlights background and T cells.  
+CD5 - B cells negative.  
+Kappa - patchy positive staining, including Russel bodies.  
+Lambda - negative.
+Cyclin D 1 - stains Russel bodies and cytoplasm but no nuclear staining of tumour cells.  
+CD138 - negative.  
+Ki-67 - proliferation index of up to around 60% in both follicles and diffuse areas.  
+
+DIAGNOSIS:  
+Right groin lymph node:   Follicular lymphoma, grade 3A (50%) and diffuse large B cell lymphoma (50%) (WHO).    
+ 

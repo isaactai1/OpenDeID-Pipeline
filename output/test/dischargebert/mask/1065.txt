@@ -1,0 +1,41 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  F
+Collected: [DATE] at 09:32
+Location:  [DEPARTMENT]-[HOSPITAL]
+DR [DOCTOR]
+Distribution:  DR [DOCTOR],  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+d/w Dr [DOCTOR]:  Palliative surgery.  No margins.  Liver resection.
+Note: previous unclassified spindle cell sarcoma, high grade, in pelvis, reviewed by Prof. [DOCTOR]H1621).
+MACROSCOPIC:
+Specimen labelled "Liver resection" consists of a segment of liver with a large tumorous mass attached.  The specimen measures 150 x 120 x 100mm.  The tumorous mass measures 150 x 110 x 80mm.  The capsule of the tumour is disrupted in an areameasuring 50 x 40mm exposing a soft and fleshy tumour.  The surgical margin is inked blue.  On sectioning the tumour has a variegated appearance with solid and areas of haemorrhage.The edge of the disrupted capsule is inked green.  
+Blocks: 1 to 13 - representative sections of the tumour; 14 - tumour with normal liver; 15 - tumour for tissue bank.  ([DOCTOR]/ta  [DATE]) 
+MICROSCOPIC: (Reported by Dr [DOCTOR]) 
+Sections show a 150mm deposit of tumour in the liver, with a similar morphology to the previous pelvic unclassified spindle cell sarcoma, high grade. The tumour is highly cellular and is composed of sheets of polygonal and spindle shaped tumour cells with pleomorphic, hyperchromatic nuclei and dense eosinophilic cytoplasm.  Scattered mitoses are present.  Areas of myxoid change and haemorrhage are seen.  Tumour is seen at the area where the capsule is disrupted.  The liver immediately adjacent tothe tumour shows severe vascular congestion and focal hepatocyte atrophy.
+DIAGNOSIS
+Liver resection: 150mm metastatic unclassified spindle cell sarcoma, high grade
+
+ADDITIONAL REPORT ([DATE])
+Immunoperoxidase stains requested by Professor [DOCTOR].
+Immunoperoxidase stains:
+Vimentin: pos
+HMB45: neg
+MelanA: neg
+AE1/3: neg
+CAM5.2: neg
+SMA: focal positive
+Desmin: neg
+c-kit: neg (non-specific focal weak cytoplasmic staining)
+CD34: focal positive
+S100: neg
+COMMENT:
+Thefindings are in keeping with unclassified spindle cell sarcoma, high grade. Markers for Pecoma (HMB45, Melan A), leiomyosarcoma, epithelioid sarcoma and GIST are negative.

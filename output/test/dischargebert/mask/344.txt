@@ -1,0 +1,32 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  F
+Collected: [DATE] at 14:12
+Location:  [DEPARTMENT] - [HOSPITAL]
+DR [DOCTOR]
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT ([DATE]):
+
+
+CLINICAL:
+Stage 2B cervical cancer [DATE], treated with chemo-radiation.  Neo-vagina created form skin graft and continent conduit (from colon, existing umbilicus).  Now with biopsy proven carcinoma in vagina and malignant cells in ascites.  Small bowel bypass for bowel obstruction.  
+MACROSCOPIC:
+Specimen labelled "Small bowel" consists of two segments of intestine, one measuring 35 x 30mm and the other 20 x 20mm.  The serosal surfaces are unremarkable.  The mucosal surfaces are unremarkable.  Representative sections taken.  
+Blocks:  1- two representative sections ofthe smaller segment; 2 & 3 - representative sections larger segment.  ([DOCTOR]/mm [DATE]) 
+MICROSCOPIC:  (Reported by Dr [DOCTOR]):
+Sections show pieces of small intestinal wall.  In the smaller segment there are aggregates of malignant epithelial cells, consistent with metastatic carcinoma, in submucosal lymphatic vessels.  The tumour shows glandular differentiation, consistent with a poorly differentiated adenocarcinoma, but nodefinite squamous differentiation is identified.  Sections of the larger segment do not show any significant abnormality.  
+DIAGNOSIS:
+Small bowel segments:  Metastatic poorly differentiated carcinoma in submucosal lymphatics of one bowel segment. 
+SUPPLEMENTARY REPORT ([DATE]):
+Further stains have been performed on this specimen and on the recent biopsy of posterior vaginal wall ([IDNUM]).  The tumous in both specimens have a similar appearance.
+There are some cells in both tumours which have intracytoplasmic mucin, demonstrated with PASD and alcian blue stains.  This confirms glandular differentiation.  Both tumours also show some patchy positivestaining for cytokeratin 5/6, suggesting squamous differentiation. 
+The features in both specimens are considered to be most consistent with an adenosquamous carcinoma.
+ 

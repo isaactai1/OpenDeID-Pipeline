@@ -1,0 +1,15 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Vulvar SCC [DATE]. 
+MACROSCOPIC:
+Specimen labelled "Perineal biopsy", consists of a small piece of tan tissue 3 x 2 x 1mm. AE for FS.  Block 1- FS.  
+FROZEN SECTION:  No evidence of malignancy.
+Result to Dr [DOCTOR] (fellow) by Dr [DOCTOR] at 14:25pm on [DATE].  
+(TO: [DOCTOR]: [DOCTOR]/ec   [DATE])
+MICROSCOPIC (reported by Dr [DOCTOR]): 
+Sections show non specific mild chronic inflammation.  There is no evidence of VIN or malignancy.

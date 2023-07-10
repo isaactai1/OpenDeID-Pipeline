@@ -1,0 +1,17 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Family hx of bowel cancer.  Altered bowel habit.  Colon cancer.  Rectosigmoid mass biopsy. 
+MACROSCOPIC:
+Patient details checked by [DOCTOR]
+Specimen labelled "Rectosigmoid biopsy", consists of five biopsies measuring from 2-3mm. AE 1 block. ([DOCTOR]/ec  [DATE]) 
+ 
+MICROSCOPIC: (Reported by Dr [DOCTOR])  
+Sections show pieces of large intestinal mucosa with muscularis mucosae.  Most of the pieces show features of an invasive poorly differentiated adenocarcinoma, with an associated stromal reaction.  (ec) 
+DIAGNOSIS:  
+Biopsies rectosigmoid mass:  Adenocarcinoma.  
+ 

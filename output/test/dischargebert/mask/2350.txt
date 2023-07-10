@@ -1,0 +1,15 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Greater omentum.  Pancreatic Ca.
+MACROSCOPIC:
+Specimen labelled "Greater omentum" consists of omental fatty tissue 340 x 120 x 10mm in aggregate.  Definite lymph nodes or indurated nodules are not identified.
+Blocks:  1 - possible nodules as seen; 2 to 6 - random sections of fatty tissue looking for nodules/lymph nodes.  (TO: [DOCTOR]; [DOCTOR]/rt [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+Sections show mature adipose tissue.  No lymph nodes are identified.  There is no evidence of malignancy
+DIAGNOSIS:
+Greater omentum:  No significant abnormality. 

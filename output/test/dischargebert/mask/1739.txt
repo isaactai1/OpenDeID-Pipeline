@@ -1,0 +1,42 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  M
+Collected: [DATE] at 12:36
+Location:  [DEPARTMENT]-[HOSPITAL]
+DR [DOCTOR]
+Distribution:
+CLINICAL:
+Recurrent left parietal intra-axial tumour.  
+MACROSCOPIC:
+A.  Specimen labelled "Left parietal tumour" consists of a tiny fragment of haemorrhagic tissue 3mm.  Divided half for smear and half for frozen section.  
+Blocks:  1- frozen section.  
+FROZEN SECTION REPORT:
+No definite tumour.
+Phone result to Dr [DOCTOR] by Dr [DOCTOR] at 2.15pm on [DATE]. 
+B.  Specimen labelled "Left parietal lesion" consists of multiple pieces of soft friable tissue measuringin aggregate 5 x 5 x 3mm.  AE 1 block.  (TO: [DOCTOR]  [DOCTOR]/mm [DATE]) 
+MICROSCOPIC (reported by Dr [DOCTOR]): 
+A.  Sections show a piece of cortex and white matter.  No tumour is seen.
+B.  Sections show pieces of cortex and white matter.  Most of the tissue is cellular tumour.  The tumour cells have enlarged, atypical pleomorphic nuclei and a moderate amount of eosinophilic cytoplasm.  Mitoses are identified and there is also microvascular proliferation.  The features are of recurrent glioblastoma (WHO grade IV).  There are also foci of infarct-like necrosis with hyalinised vessels, consistent with radiotherapy effect but most of the tumour appears viable.   
+
+Immunohistochemical stains: 
+GFAP:   Positive. 
+IDH1:   To be repeated. 
+Ki 67:   Proliferation index around 25%.
+CD68:   Highlights numerous macrophages and activated microglial cells.
+Molecular tests:
+Tissue has been sent to the [HOSPITAL] Institute forassessment of MGMT methylation status.  A supplementary report will be issued.
+Block for potential treatment trial (if required):
+Viable tumour is best seen in block [IDNUM].
+
+
+DIAGNOSIS: 
+A.  Left parietal tissue:  No tumour.
+B.  Left parietal tumour:  Recurrent glioblastoma (WHO grade 4).

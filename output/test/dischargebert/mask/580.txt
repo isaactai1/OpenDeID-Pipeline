@@ -1,0 +1,21 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Right middle cranial fossa lesion.  Multiple myeloma.  Likely multiple myeloma ?Plasmacytoma.  
+MACROSCOPIC:
+A.  Specimen labelled "Right middle cranial lesion" consists of a piece of soft pink tissue measuring 6 x 3 x 3mm which was unsuitable to smear.  Two thirds embedded for frozen section.  
+Blocks: 1 - frozen section; 2 - remaining tissue.  
+FROZEN SECTION REPORT:
+Tumour, possible neoplastic, type unknown.  
+Result to neurosurgical registrar by Dr [DOCTOR] at 17.20 on [DATE].  ([DOCTOR]/ta [DATE]) 
+B.  Specimen labelled "Right middle fossa lesion", received in formalin, consists of three pieces of tissue 5 to 10mm.  AE one block.   ([DOCTOR]/cc [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+A and B. Sections show a lesion composed of sheets of tumour cells with pleomorphic, hyperchromatic nuclei and prominent nucleoli.  Some of the tumour cells present have eccentric clock-faced nuclei, in keeping with plasma cell differentiation.
+The tumour cells are positive for CD138. There is kappa light chain restriction on kappa/lambda staining.
+The findings are in keeping with a plasmacytoma/multiple myeloma.
+DIAGNOSIS:
+A and B. Right middle cranial fossa lesion: plasmacytoma/multiple myeloma.

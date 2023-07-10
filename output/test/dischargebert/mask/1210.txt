@@ -1,0 +1,16 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+[AGE] year old who presented to casualty with heavy PV bleeding, hb 50.  Large fungating mass extending from the cervix.  
+MACROSCOPIC:
+Specimen labelled "Cervical biopsy" consists of a piece of friable pale tan tissue 40 x 35 x 25mm.  On sectioning the tissue contains an area of possible viable tissue with necrotic material.  
+Blocks:1 to 3 - representative sections of the viable tissue.  ([DOCTOR]/mm [DATE]) 
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+Sections show a poorly differentiated endometrioid adenocarcinoma (Figo grade 3).  There is extensive tumour necrosis.  Majority of tumour (80%) shows solid/sheet-like growth pattern and scores architectural grade 3.  The reminder of tumour (20%) shows usual glandular/cribriform pattern.  The tumour involves the entire thickness of specimen and no normal cervical/endometrial tissue is seen.
+The case is shown to Dr [DOCTOR].
+DIAGNOSIS:
+Cervical biopsy - Endometrioid adenocarcinoma (grade 3).

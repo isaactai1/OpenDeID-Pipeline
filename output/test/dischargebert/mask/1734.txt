@@ -1,0 +1,39 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM],[IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Washings,Tissue
+D.O.B:  [DATE]
+Sex:  F
+Collected: [DATE] at 13:29
+Location:  [DEPARTMENT] - [HOSPITAL]
+DR [DOCTOR]
+Distribution:  DR [DOCTOR]
+CLINICAL:
+Pelvic mass.  Class 3 obesity = 40.6.  Abdominal hysterectomy [DATE], menorrhagia.  Aortic sclerosis, mild mitral regurg.  Ca 125=15.  Asthma.  Appendicectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right tube and ovary" consists of a lobulated cystic mass 140 x 110x 65mm with attached fallopian tube 68 x 8 x 8mm.  The outer surface is smooth.  Slicing reveals a multiloculated cyst with thin yellow fluid.  Approximately half of the mass is solid firm pale tissue.  Papillary foci are identified.:  1 & 2 - frozen section; 3 & 4 - entire fallopian tube; 5 to 15 - representatives the mass.  
+FROZEN SECTION REPORT:
+Serous cystadenofibroma.  
+Phone result to Dr [DOCTOR] by Dr [DOCTOR] at 3.55pm on [DATE].
+B.  Specimen labelled "Left tube and ovary" consists of an ovary 45 x 25 x 20mm with attached fallopian tube 50mmin length and up to 8mm in diameter.  The external surface of the ovary is smooth.  The cut surface of the ovary is predominantly pale and solid.  There are multiple cysts scattered through the ovary ranging from 3 to 6mm in maximum dimension.  The cysts have a smooth lining and are filled with clear fluid.  There are no papillary excrescences.  
+Blocks:  1 to 5 - representative sections of ovary; 6 & 7 - the entire fallopian tube.  
+C.  Specimen labelled "Omental biopsy" consists of omental fatty tissue 160 x 150 x 27mm.  On slicing no nodules are identified.  
+Blocks:  1 to 3 - random sections.  (TO:  [DOCTOR]  [DOCTOR]/mm [DATE]).
+MICROSCOPIC:  (Reported by Dr [DOCTOR])
+A.  Sections of the ovary show a serous cystadenofibroma composed of cystic dilated spaces and broad hyalinisedpapillae lined by benign ciliated and non-ciliated low columnar cells with bland ovoid basal nuclei.  The cystic spaces are surrounded by abundant fibrous stroma.  There is no evidence of dysplasia or malignancy. 
+The fallopian tube shows no significant abnormality.
+B. Sections of the ovary show a serous cystadenofibromawith similar morphological features as described in specimen A.  There is no evidence of dysplasia or malignancy.
+The fallopian tube shows no significant abnormality. 
+C. Sections of the omentum show no significant abnormality. 
+DIAGNOSIS:
+A.  Right tube and ovary:  Serous cystadenofibroma.
+B.  Left tube and ovary:  Serous cystadenofibroma.
+C.  Omental biopsy:  No significant abnormality. 
+
+
+

@@ -1,0 +1,21 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited :[DATE]		Page: 2
+HISTORY:
+Mucocele of appendix and peritoneal nodules. PS:  Appendix was opened by Prof. [DOCTOR] so its not ruptured. 
+Peritoneal nodule, appendix; lumen opened by surgeon. 
+MACROSCOPIC:
+A. "APPENDIX". An opened appendix with gelatinous material in it. The appendix measures 100x25x25mm. The wall thickness is 3mm. 
+(1 LS of the proximal margin; 2-17RS of appendix; 18&19 RS of gelatinous material). RS (M-19).
+B. "PERITONEAL NODULE". A piece of tissue measuring 10x10x5mm. AE (1-1/[DOCTOR]/t).
+MICROSCOPIC:  (Dr [DOCTOR])
+A. Sections through the appendix show a low grade mucinous neoplasm resulting in appendiceal mucocele. No extra-appendiceal extension of mucin or cells is seen. The proximal surgical margin of resection is clear of the neoplasm. There is no evidence of invasive malignancy.
+B.  Sections show fibrous and smooth muscle tissue. There is no evidence of malignancy.
+DIAGNOSIS:
+APPENDIX:  
+LOW GRADE APPENDICEALMUCINOUS NEOPLASM CONFINED TO APPENDIX. 
+PERITONEAL NODULE:  AREAS OF FIBROSIS. 
+[DATE] ht

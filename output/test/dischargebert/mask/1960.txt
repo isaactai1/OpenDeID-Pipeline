@@ -1,0 +1,21 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+[AGE]yo postmenopausal bleeding with ET 13mm on USS.  At hysteroscopy abnormal endometrial tissue seen on right lateral wall - ?complex hyperplasia or cancer.
+MACROSCOPIC:
+A.  Specimen labelled "Endometrial curettings", consists of multiple pieces of tan haemorrhagic tissue and blood clot measuring in aggregate 45 x 25 x 5mm.  Specimen AE 2 blocks. 
+B.  Specimen labelled "Endocervical curettings", consists of multiple pieces of tan and mucoid tissue measuring in aggregate 10 x 10 x 3mm.  Specimen AE 1 block. 
+([DOCTOR]/vo [DATE]) 
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+A & B.  Specimens A and B show similar histopathological features. Sections show fragments of Grade 1 endometrioid endometrial adenocarcinoma.The adenocarcinoma consists predominantly of complex, crowded glands with minimal intervening stroma lined by moderately pleomorphic carcinoma cells (FIGA architecture grade 1; nuclear grade 2 = overall grade1). 
+Representative slides seen with Dr [DOCTOR].
+
+
+DIAGNOSIS:
+A & B.  Endometrial and endocervical curettings: FIGO Grade 1 endometrioid endometrial adenocarcinoma. 
+
+

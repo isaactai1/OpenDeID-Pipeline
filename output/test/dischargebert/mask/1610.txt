@@ -1,0 +1,21 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+HISTORY:  
+PmHx - PCP.  Peritonectomy [DATE].  New onset disease.  Frozen section of abdominal wall and small bowel surface.  
+MACROSCOPIC:  
+A.  "ABDOMINAL WALL".  Two pieces of tissue which are firm and pale, and each measure 5mm in maximum dimension.  
+Frozen section report:  "Extracellular mucin, atypical ?signet ring cells.  Suspicious.Await paraffin".  
+(1 frozen section; 2 rest of specimen [block 2 tumour reserve block]).  AE (M-2).
+B.  "SMALL BOWELSURFACE".  Two fragments of pale firm tissue measuring 2mm each.  
+Frozen section report:  "Extracellular mucin with occasional signet ring cells".  [DOCTOR] to Prof [DOCTOR] at 11.20am.  
+(1 frozen section; 2 rest of tissue).  AE (M-2/[DOCTOR]/nh).
+MICROSCOPIC:  ([DOCTOR])
+A&B. Sections show metastatic mucinous adenocarcinoma including areas of signet ring morphology. The tumour is seen to infiltrate fibrous tissue.
+DIAGNOSIS:  
+ABDOMINAL WALL AND SMALL BOWEL SURFACE:
+ - METASTATIC MUCINOUS ADENOCARCINOMA WITH AREAS OF SIGNET RING MORPHOLOGY.
+[DATE] ht

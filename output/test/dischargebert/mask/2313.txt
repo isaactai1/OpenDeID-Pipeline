@@ -1,0 +1,51 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  F
+Collected: [DATE] at :
+Location:  [DEPARTMENT] - [HOSPITAL]
+DR [DOCTOR]
+Distribution:    NSW-CANCER-REGISTRY
+***** SUPPLEMENTARY REPORT - SEE BELOW *****
+
+CLINICAL:
+(R) Breast DCIS-highgrade discovered in Feb - pt elect for mastectomy - sentinel node biopsy.  Tissue marked - long stitch lateral, short stitch superior.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node", received fresh on [DATE], consists of two fragments of fatty tissue measuring 15 x 10 x 5mm (fragment 1) and 30 x 15 x8mm (fragment 2).  Fragment 2 contains one lymph node measuring 14 x 7 x 5mm.  Fragment 2 contains two lymph nodes measuring 6 x 5 x 3mm and 8 x 5 x 4mm.  The largest lymph node has an ill defined, pale area on the cut surface measuring 5x 5mm.  Lymph nodes sectioned for imprinting and frozen section.  Please note that the specimen was placed in formalin for approximately 5 minutes.  
+AE.  Blocks:  1 and 2 - largest node, sectioned; 3 - node two, sectioned; 4 - node three, sectioned; 5 - associated adipose tissue.
+IMPRINT CYTOLOGY REPORT:
+No malignant cells identified - three negative lymph nodes.
+Phone result to Dr [DOCTOR] by Dr [DOCTOR] at 16.45 on [DATE].
+FROZEN SECTION REPORT:  
+Two representative sections of larger node of pale area - negative.  
+Phone result to Dr [DOCTOR] by Dr [DOCTOR] at 16.45 on [DATE].
+B.  Specimen labelled "Right breast", consists of amastectomy specimen weighing 777g and measuring 230 x 220 x 50mm.  There is an overlying ellipse of skin measuring 200 x 92mm.  The nipple measures 13mm in diameter and is situated 55mm from the inferior skin edge and 82mm from the medialskin apex.  The nipple and skin surface appear unremarkable.  Orienting sutures are in situ.  The superior margin is inked blue, inferior margin is inked red, and deep margin is inked black.  The specimen has been thinly sliced revealingfibrofatty tissue.  No distinct lesion is identified.  No lymph nodes are identified in the axillary tissue.  RS.  Please note - BreastScreen reported ([DATE]) microcalcifications and regionof high grade DCIS 80mm from the nipple at the 10 o'clock position.  Report attached.
+Blocks: 1 to 11 - majority of pale fibrous tissue at approximately the 10 o'clock position, 80mm from the nipple (B1 to B3 - most medial sections, [IDNUM] to [IDNUM] - most lateral sections); 12 & 13 - representative left lower quadrant; 14 & 15 - representative left upper quadrant; 16 - nipple and tissue deepto nipple; 17 & 18 - right upper quadrant; 19 & 20 - right lower quadrant.  Please refer to block diagram.   (TO: [DOCTOR]; [DOCTOR]/ta [DATE]) 
+MICROSCOPIC (reported by A/Prof [DOCTOR]): 
+A. The H&E sections of the three separate sentinel lymph nodes show no evidence ofmalignancy. Keratin stains are in progress.
+B. The sections of breast tissue show high grade ductal carcinoma in situ associated with comedo necrosis and coarse calcifications. The DCIS involves scattered ducts within separate blocks taken from the 10 o'clock region (identified from previous BreastScreen report). The largest single focus is present in block [IDNUM] and measures 20mm. The DCIS is present in two adjacent slices ([IDNUM] and [IDNUM]), giving an approximate dimension of 20 x 20mm. Block [IDNUM], containing DCIS, has been taken from the lateral most slice of the involved areaat 10 o'clock. Further sections are in progress from the area lateral to this block0 to ensure that the area of DCIS has been thoroughly examined.   
+DCIS extends into lobules and there is periductal fibrosis and focal ductal distortion, but no diagnostic evidence of invasion is identified.
+DCIS is 4mm clear of thedeep margin ([IDNUM]).
+The background breast tissue shows areas of fibrosclerosis and scattered benign lobular calcifications. Columnar cell lesions are also present as well as foci of sclerosing adenosis. No evidence of Paget's disease is seen in the section of nipple.
+A small intramammary lymph node is present and shows no evidence of malignancy, bringing the total lymph node count to 0/4.
+DIAGNOSIS: 
+A. SENTINEL LYMPH NODES, RIGHT AXILLA: NO EVIDENCE OF MALIGNANCY IN THREE NODES (0/3)
+B. RIGHT BREAST: HIGH GRADE DUCTAL CARCINOMA IN SITU
+NEGATIVE INTRAMAMMARY NODE (0/1)
+SUPPLEMENTARY REPORT (A/Prof [DOCTOR]) 
+Further sections of breast tissue were examined adjacent to the area containing DCIS in the original report in blocks [IDNUM] - [IDNUM].
+The additional sections show two further areas of DCIS measuring 7mm in diameter in block [IDNUM] and 14mm in block [IDNUM] which have been taken at a distance from the original focus of approximately 10-20mm. The intervening block between the two foci contains an organising fibrous tract, suggesting that the two foci are partof a larger, connected lesion, immediately adjacent to the main lesion in the first report. Calcification is seen in these additional foci of DCIS.
+Areas of columnar cell change with benign calcifications and a small fibroadenoma are also identified.
+A small focus of organising fat necrosis and fibrosis is present, possibly relating to previous biopsy. 
+A second round of reselected blocks is in progress to further sample the region between the DCIS and the nipple.
+This additional report has been faxed to Dr [DOCTOR] and also discussed with him.
+FURTHER SUPPLEMENTARY REPORT: (A/Prof [DOCTOR])
+This case was presented at the breast cancer MDT meeting by Dr [DOCTOR] on [DOCTOR] [DATE] and subsequently discussed with Dr [DOCTOR].
+It is understood that the radiological and pathological findings now correlate following the previous block re-selection and therefore additional sampling is not required.

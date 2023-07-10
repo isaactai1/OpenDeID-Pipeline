@@ -1,0 +1,39 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+[STREET]
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  M
+Collected: [DATE] at :
+Location:  [DEPARTMENT]
+DR [DOCTOR]
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+[AGE]yo, Male, increase pain around R chest wall mass on [DATE].
+CT Chest ([DATE]): Small subcutaneous, soft tissue density nodule in the right anterolateral chest wall, adjacent to the anterior aspect of the right sixth rib. There is no cortical destruction of the adjacent rib. 
+MACROSCOPIC:
+Specimen labelled "Mass near 6th rib" consists of a well circumscribed mass with surrounding rim of fibroadipose tissue, 30 x 20 x 18mm.  Sectioning reveals a slightly translucent grey cut surface.  One TS forfrozen section.  Sample (6 x 6 x 3mm) for cytogenetics.  The rest in formalin.
+Blocks:  1 - frozen section deblocked and processed urgently; 2 to 6 - rest of specimen AE; 6 - tumour for BioBank.
+FROZEN SECTION REPORT:
+Spindle cell tumour, reaching margins in areas (also shown to Dr [DOCTOR]).
+Result to Dr [DOCTOR] by Dr [DOCTOR] at 3:35pm on [DATE].
+(TO: [DOCTOR]; [DOCTOR]/rt [DATE])
+MICROSCOPIC: (Reported by Dr [DOCTOR]/Dr [DOCTOR])
+Sections show a cellular spindled cell lesion within fibroadipose tissue. The tumour has an infiltrative advancing edge and extends through subcutaneous fibroadipose tissue and ispresent widely at the diathermied surgical margins. The tumour consists of plump, mildly pleomorphic spindled cells arranged in short interweaving and intermediate sized cellular fascicles. The tumour cells have eosinophilic fibrillarycytoplasm, elongated oval nuclei with vesicular chromatin and prominent pin-point nucleoli. Scattered plump hyperchromatic cells are seen. Mitoses are infrequent and there is no necrosis. There are scattered extravasated red blood cells and occasional thin walled vessels and tumour cells show fat wrapping in areas. No admixed foam cells, multinucleated giant cells or haemangio-pericytomatous vessels are seen. At the edge of the lesion, tumour cells show collagen entrapment and there is a prominent lymphohistiocytic cell cuff. The tumour extends widely to diathermied margins. 
+IMMUNOHISTOCHEMISTRY:
+Immunohistochemical stains were performed and the results are as follows:
+Tumour cells positive for: CD68, factor 13A, SMA (patchy weak) and vimentin. 
+Tumour cells negative for: PanCK, CK5/6, and AE1/AE3,Desmin, Myogenin, CD31 and CD34, B-catenin. C-kit, CD21 and CD1a, S100, MelanA and HMB45.
+COMMENT:
+The chest wall lesion is an infiltrative low grade spindle cell lesion. The tumour shows immunohistochemical features of fibrohistiocytic/myofibroblastic differentiation. The pathologic differential diagnosis is broad and may includea deep dermatofibroma (deep benign fibrous histiocytoma), nodular fasciitis and low grade myofibrosarcoma. The tumour extends broadly to the diathermied surgical margin. 
+The slides will be sent to Professor [DOCTOR] at RPA Bone and Soft Tissue Meeting for an expert opinion and a supplementary report will be issued. 
+
+DIAGNOSIS:
+Chest wall lesion (near 6th rib): Infiltrative low grade spindle cell lesion (see comment). 
+

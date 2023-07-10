@@ -1,0 +1,16 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+
+CLINICAL:
+Re-do liver resection.
+MACROSCOPIC:
+Specimen labelled "Liver resection" consists of a wedge of liver measuring 95 x 85 x 50mm and weighing 164g.  There is a surgical margin along two sides of the wedge which has been inked blue.  On sectioning a cream nodule is identified measuring 30 x 20 x 20mm.  The nodule has a cream fleshy cut surface and is located approximately 11mm from the surgical margin and 4mm from the liver capsule.
+Blocks:  1 & 2 - representative tumour with capsule; 3 - representative surgical margin closest to nodule; 4 - reserved block; 5 & 6 - representative liver away from nodule.  ([DOCTOR]/rt [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+Sectionsof liver show a single deposit of moderately differentiated metastatic adenocarcinoma with extensive necrosis consistent with a colorectal primary.  The tumour deposit measures approximately 17mm across and is well clear (greater than 10mm) ofthe surgical resection margin.  There is no breach of the liver capsule.  The remaining liver parenchyma shows no significant abnormality.  
+DIAGNOSIS:  
+Liver:  Metastatic adenocarcinoma, margins clear.

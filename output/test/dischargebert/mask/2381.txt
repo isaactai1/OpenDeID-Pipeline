@@ -1,0 +1,14 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+CLINICAL:
+Transverse lesion bx.  ?Ca.
+MACROSCOPIC:
+Specimen labelled "Transverse lesion bx" consists of seven biopsies 1 to 3mm and two fragments <1mm each.  AE 1 block.  ([DOCTOR]/rt [DATE])
+MICROSCOPIC (Reported by Dr [DOCTOR]):
+Sections show a tubular adenoma with low grade dysplasia.  There is no evidence of high grade dysplasia or invasive malignancy.  The biopsy is very small and may not be representative of the entire lesion.  Clinical correlation is needed.
+DIAGNOSIS:
+Transverse colon - Tubular adenoma.

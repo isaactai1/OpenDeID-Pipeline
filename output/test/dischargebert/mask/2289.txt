@@ -1,0 +1,28 @@
+
+ [MEDICALRECORD]
+[PATIENT]
+[IDNUM]
+
+Last edited : [DATE]		Page: 2
+SUPPLEMENTARY REPORT ([DATE]):
+
+
+CLINICAL:
+Pituitary lesion ?pituitary adenoma.  Scoliosis, spina bifida, asthma, skin breakdown post surgery for scoliosis.  Pituitary tumour.  
+MACROSCOPIC:
+Specimen labelled "Pituitary lesion" and consists of five biopsies from 1 to 2mm.   AE 1 block.   (TO [DOCTOR]: [DOCTOR]/ta [DATE])  
+ 
+ 
+MICROSCOPIC (Reported by Dr [DOCTOR]): 
+Sections show small pieces of pituitary tissue.  These consist of nests and trabeculae of cells with intervening vascular fibrous tissue.  The cell nests are composed of mixed cells including acidophils, basophils and chromophobes.  A reticulin stain shows a preserved reticulin staining pattern.  Immunostains for ACTH, growth hormone, prolactin, FSH, LH and TSH confirm a mixture of cell types.  
+There is some apparent increase in fibrous tissue between the cells nests but otherwise the appearances are of normal pituitary.  No adenoma or other neoplasm is seen.  The increased interstitial fibrous tissue is non specific.  There is no significant inflammatoryinfiltrate.  
+The slides have also been viewed by Dr [DOCTOR], neuropathologist.
+DIAGNOSIS:  
+Pituitary tissue:  Anterior pituitary tissue with increased interstitial fibrous tissue. 
+SUPPLEMENTARY REPORT ([DATE]):
+Immunostaining for IgG4 plasma cells was requested by Prof [DOCTOR], Immunology Clinic, [HOSPITAL] Hospital.
+On review of the H and E stained slides there is no significant inflammatory infiltrate and no plasma cells are identified.
+A CD138 immunostain for plasma cells is negative.
+An IgG4 immunostain is also essentially negative.
+There are no histologic features to support a diagnosis of possible IgG4 disease in this tissue.
+ 

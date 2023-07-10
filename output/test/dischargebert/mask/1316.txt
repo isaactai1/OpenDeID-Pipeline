@@ -1,0 +1,43 @@
+
+Episode No:  [IDNUM]
+[MEDICALRECORD]
+
+[PATIENT] 
+Lab No:  [IDNUM]
+57  BURRADOO  CRES
+[CITY]  [STATE]  [ZIP]
+Specimen: Tissue
+D.O.B:  [DATE]
+Sex:  M
+Collected: [DATE] at 14:26
+Location:  [DEPARTMENT]-[HOSPITAL]
+DR [DOCTOR]
+Distribution:   FILE-COPY
+CLINICAL:
+Excision of tumour T6 vertebra.  
+MACROSCOPIC:
+Specimen labelled "Thoracic level left pedicletumour" consists of multiple pieces of tan soft tissue mixed with bone measuring in aggregate 70 x 50 x 10mm.  Representative sections of soft tissue in 5 blocks, block 6 - representative sections of soft tissue admixed with bone.  (TO: [DOCTOR]: [DOCTOR]/mm [DATE]) 
+MICROSCOPIC (reported by Dr [DOCTOR]):
+Sections show a poorly differentiated carcinoma with small fragments of bone. The lesion is composed of sheets and nests of tumour cells with pleomorphic vesicular nuclei, prominent nucleoli and moderately abundant eosinophilic clear cytoplasm. The tumour cells have well defined cell borders. Hyaline globules, positive for diPAS, are focally present.  No convincing intracytoplasmic mucin is seen. No keratin pearls or convincing glands are present.
+Shown to Dr [DOCTOR].
+Immunoperoxidase stains:
+CK5/6: +ve
+p63: +ve
+panCK: +ve
+CK7: +ve
+CK20: -ve
+CEA: -ve
+TTF-1: -ve
+PSA: -ve
+HepPar1: -ve
+MelanA: -ve
+Synaptophysin: -ve
+Calretinen: -ve
+Vimentin +ve
+CD10: +ve
+PLAP: focal +ve
+CD30: -ve
+COMMENT:
+The findings are in keeping with a poorly differentiated carcinoma. The morphology, plus positive staining for CK5/6 and p63 would favour a poorly differentiated squamous cell carcinoma. The site of the primary lesion is not apparent on histology. Correlation with clinical and imaging findings is recommended.
+DIAGNOSIS:
+T6 vertebral tumour: Poorly differentiated carcinoma, with features favouring poorly differentiated squamous cell carcinoma (see comment)
