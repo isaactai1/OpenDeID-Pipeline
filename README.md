@@ -1,6 +1,19 @@
-# OpenDeID-Pipeline
+# About OpenDeID pipeline
 
-- We present a hybrid de-identification pipeline called OpenDeID, which was developed using an Australian multicenter EHR-based corpus called OpenDeID Corpus. 
-- The OpenDeID corpus consisted of 2,100 pathology reports with 38,414 PHI entities from 1,833 patients. 
-- The OpenDeID pipeline is suitable for processing Australian EHRs, which can generate realistic surrogates. 
-- The OpenDeID pipeline has been deployed at a large tertiary teaching hospital and has processed over 8,000 unstructured EHRs in real-time. 
+This repo includes source code for the OpenDeID pipeline presented in the following publication.
+
+Liu, J., Gupta, S., Chen, A., Wang, C. K., Mishra, P., Dai, H. J., Wong, Z. S., & Jonnagaddala, J. (2023). OpenDeID Pipeline for Unstructured Electronic Health Record Text Notes Based on Rules and Transformers: Deidentification Algorithm Development and Validation Study. Journal of medical Internet research, 25, e48145. https://doi.org/10.2196/48145 
+
+## About OpenDeID Corpus
+
+The OpenDeID corpus is used to design and develop the OpenDeID pipelin . For more information please refer to https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
+
+## Related publications
+
+https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
+
+## Related links
+
+https://github.com/TCRNBioinformatics/OpenDeID-Corpus
+https://github.com/TCRNBioinformatics/OpenDeID-Pipeline
+https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
