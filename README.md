@@ -14,6 +14,10 @@ https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
 
 ## Related links
 
+https://github.com/SREDH-Consortium/OpenDeID-Corpus
+
+https://github.com/SREDH-Consortium/OpenDeID-Pipeline
+
 https://github.com/TCRNBioinformatics/OpenDeID-Corpus
 
 https://github.com/TCRNBioinformatics/OpenDeID-Pipeline
