@@ -25,7 +25,7 @@
         "ignore_O": false
     },
    "predict": {
-        "in_dir": "./input/datasets/3.test/xml-test",
+        "in_dir":  "C:/Users/isaac/iCloudDriveBiopsy report_",
         "out_dir": "./output/test",
         "rules": [],
         "surrogate": false,

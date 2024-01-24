@@ -37,7 +37,7 @@ def run(in_paths, out_dir, model_name, model_dir, tagging_scheme, labels_path, m
                             os.path.join(out_dir, 'mask'), dict_dir, surrogate)
 
 if __name__ == '__main__':
-    os.chdir('../2022-v1')
+    #os.chdir('../2022-v1')
     with open('config/BERTconfig.json') as config:
         config = json.loads(config.read())
 
